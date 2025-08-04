@@ -36,6 +36,8 @@ The project provides an end-to-end solution for predictive maintenance and custo
 *   **textblob**
 *   **lightgbm**
 *   **joblib**
+*   **matplot**
+*   **seaborn**
 
 ## 📂 Project Structure
 
