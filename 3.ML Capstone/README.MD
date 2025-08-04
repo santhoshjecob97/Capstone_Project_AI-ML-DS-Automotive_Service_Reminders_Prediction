@@ -131,7 +131,7 @@ The primary purpose of your classification models is to **predict if a customer'
     *   **Text Features (`customer_feedback`):** Are transformed using `TfidfVectorizer(max_features=100)`. TF-IDF (Term Frequency-Inverse Document Frequency) converts text into numerical vectors, weighting words based on their frequency in a document relative to their frequency across all documents, thus capturing the importance of terms. Additionally, a `FeedbackSentimentExtractor` class, leveraging `textblob`, is used to derive sentiment polarity from feedback text.
     *   All these transformers are orchestrated using `ColumnTransformer` (`preprocessor`) to apply the correct transformations to the respective feature sets.
 *   **Machine Learning Algorithms:**
-    *   Your project explores and utilises various supervised classification algorithms, including **RandomForestClassifier, GradientBoostingClassifier, SVM, and Logistic Regression**.
+    *   My project explores and utilises various supervised classification algorithms, including **RandomForestClassifier, GradientBoostingClassifier, SVM, and Logistic Regression**.
     *   Notably, Gradient Boosting has shown **1.00 accuracy** in some tests. The chosen best model for deployment in some instances is a `Pipeline` containing the `preprocessor` and the `GradientBoostingClassifier`.
 *   **Output & Logic:** The models generate predictions (`predicted_urgency`) which are then used to segment customers into `Critical`, `High Priority`, `Medium Priority`, and `Low Priority` based on `feedback_score`, `next_service_due_days`, and predicted urgency. Personalized messages and preferred communication channels are then generated based on these segments.
 
@@ -149,7 +149,7 @@ Classification models in your project provide immense business value:
 Unlike classification, regression models **predict continuous numerical values**. In your project, they are used for:
 *   **Service Cost Prediction:** Estimating the `last_service_cost`.
 *   **Days Until Next Service:** Predicting the `next_service_due_days`.
-*   **Customer Lifetime Value (CLTV):** Forecasting the potential future revenue from a customer. Your project uses a proxy calculation like `last_service_cost * number_of_services` for `customer_lifetime_value_proxy`.
+*   **Customer Lifetime Value (CLTV):** Forecasting the potential future revenue from a customer. My project uses a proxy calculation like `last_service_cost * number_of_services` for `customer_lifetime_value_proxy`.
 *   **Odometer Reading Prediction:** Predicting future `odometer_reading` or `next_service_due_kms` (as a proxy).
 
 **Code & Technical Concepts:**
@@ -219,7 +219,7 @@ The "5 classification models" you refer to actually represent **different iterat
 
 5.  **`02.classification_05.pdf`**: This document appears to be a **near-identical duplicate** of `02.Classification_04.pdf`. It implements the same features, preprocessing, target definition, and segmentation logic.
 
-In summary, these are not five *different* models in the sense of five separate, concurrently running systems with unique objectives. Instead, they represent a **progression of your classification pipeline's development**, starting from basic model comparison (`01`), moving to a class-based structure (`02`), adding enhanced business logic and features (`03`), and finally integrating text processing for the target and segmentation (`04`/`05`). The underlying classification algorithm used in the later iterations is predominantly `RandomForestClassifier`, while `GradientBoostingClassifier` showed superior performance in the initial comparison.
+In summary, these are not five *different* models in the sense of five separate, concurrently running systems with unique objectives. Instead, they represent a **progression of my classification pipeline's development**, starting from basic model comparison (`01`), moving to a class-based structure (`02`), adding enhanced business logic and features (`03`), and finally integrating text processing for the target and segmentation (`04`/`05`). The underlying classification algorithm used in the later iterations is predominantly `RandomForestClassifier`, while `GradientBoostingClassifier` showed superior performance in the initial comparison.
 
 ### Streamlit Cloud Deployment with `app.py` Script
 
@@ -242,7 +242,7 @@ The sources **do not explicitly mention Streamlit or Streamlit Cloud** for deplo
 
 The classification models within this project demonstrate **near-perfect precision and recall (1.00)** for accurately identifying urgent and high-priority customers. Typical metrics include an accuracy of **1.00**.
 
-## 📈 Business Value & Impact
+## 📈 Final Business Value & Impact
 
 This AI-driven system creates significant value for automotive dealerships and service networks:
 
@@ -252,6 +252,6 @@ This AI-driven system creates significant value for automotive dealerships and s
 *   **Improves Customer Experience:** Leads to reduced negative feedback and decreased churn rates.
 *   **Supports Data-Driven Management:** Provides insights for optimising workshop fulfilment, call centre staffing, stock management, and financial forecasting.
 
-Your capstone project demonstrates immediate value by making the after-sales journey "smart," automated, and truly customer-centric.
+My capstone project demonstrates immediate value by making the after-sales journey "smart," automated, and truly customer-centric.
 
 ---
