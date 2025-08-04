@@ -1,0 +1,1271 @@
+location,customer_type,make,model,year_of_purchase,next_service_due_days,preferred_channels,reminder_message,reminder_schedule,telecaller_name,priority
+Velachery,Fleet,Ford,EcoSport,2022,32,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford EcoSport (purchased in 2022) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF697). Valid until 04-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Deanna,Medium-High
+OMR,Retail,Ford,Figo,2016,-86,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford Figo (purchased in 2016) is due for service in -86 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF992). Valid until 04-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Theresa,
+Anna Nagar,Corporate,Toyota,Innova,2018,34,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Toyota Innova (purchased in 2018) is due for service in 34 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF787). Valid until 16-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Michael,Medium-High
+T Nagar,Corporate,Toyota,Etios,2017,91,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Toyota Etios (purchased in 2017) is due for service in 91 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF100). Valid until 31-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Brian,Low
+T Nagar,Retail,Maruti,Swift,2018,2,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Swift (purchased in 2018) is due for service in 2 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF297). Valid until 01-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Karen,High
+Velachery,Retail,Hyundai,i20,2021,-113,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai i20 (purchased in 2021) is due for service in -113 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF255). Valid until 29-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Karen,
+T Nagar,Fleet,Hyundai,i20,2020,-54,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai i20 (purchased in 2020) is due for service in -54 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF195). Valid until 26-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",David,
+OMR,Retail,Hyundai,i10,2018,-86,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai i10 (purchased in 2018) is due for service in -86 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF936). Valid until 03-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Susan,
+T Nagar,Fleet,Hyundai,i20,2020,-54,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai i20 (purchased in 2020) is due for service in -54 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF195). Valid until 26-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",David,
+OMR,Fleet,Hyundai,Creta,2016,91,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai Creta (purchased in 2016) is due for service in 91 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF577). Valid until 26-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Brian,Low
+OMR,Retail,Toyota,Yaris,2018,-25,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Yaris (purchased in 2018) is due for service in -25 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF929). Valid until 01-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Andrew,
+T Nagar,Corporate,Toyota,Etios,2017,91,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Toyota Etios (purchased in 2017) is due for service in 91 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF100). Valid until 31-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Brian,Low
+OMR,Fleet,Honda,City,2018,-27,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2018) is due for service in -27 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF144). Valid until 14-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Jason,
+Anna Nagar,Corporate,Maruti,Swift,2015,2,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Swift (purchased in 2015) is due for service in 2 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF800). Valid until 07-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Megan,High
+Anna Nagar,Corporate,Toyota,Innova,2015,62,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Toyota Innova (purchased in 2015) is due for service in 62 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF495). Valid until 26-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Carlos,Medium
+Velachery,Corporate,Hyundai,Creta,2021,61,['Email'],"Dear Valued Customer,
+
+We hope this message finds you well. Your Hyundai Creta (purchased in 2021) is due for service in 61 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF545). Valid until 25-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Katie,Medium
+Velachery,Corporate,Maruti,Swift,2016,5,['Email'],"Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Swift (purchased in 2016) is due for service in 5 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF238). Valid until 12-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Shawn,High
+Velachery,Fleet,Maruti,Dzire,2016,62,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Dzire (purchased in 2016) is due for service in 62 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF960). Valid until 28-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Perry,Medium
+OMR,Retail,Hyundai,i10,2018,-27,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai i10 (purchased in 2018) is due for service in -27 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF688). Valid until 22-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Jonathan,
+Anna Nagar,Fleet,Toyota,Etios,2017,-27,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Etios (purchased in 2017) is due for service in -27 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF201). Valid until 13-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Lynn,
+OMR,Retail,Honda,City,2022,62,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2022) is due for service in 62 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF551). Valid until 12-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Mandy,Medium
+OMR,Retail,Maruti,Baleno,2022,2,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Baleno (purchased in 2022) is due for service in 2 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF819). Valid until 07-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Rodney,High
+T Nagar,Fleet,Honda,Jazz,2018,-57,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda Jazz (purchased in 2018) is due for service in -57 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF549). Valid until 30-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Christine,
+Anna Nagar,Corporate,Toyota,Innova,2015,62,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Toyota Innova (purchased in 2015) is due for service in 62 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF495). Valid until 26-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Carlos,Medium
+Velachery,Retail,Honda,City,2018,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2018) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF515). Valid until 20-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Stephanie,Medium-High
+Velachery,Fleet,Ford,Figo,2016,91,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Ford Figo (purchased in 2016) is due for service in 91 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF186). Valid until 19-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",George,Low
+OMR,Retail,Honda,Amaze,2016,-143,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda Amaze (purchased in 2016) is due for service in -143 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF432). Valid until 01-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Shawn,
+Anna Nagar,Fleet,Hyundai,Creta,2017,-143,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai Creta (purchased in 2017) is due for service in -143 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF694). Valid until 10-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Paula,
+Anna Nagar,Fleet,Maruti,Dzire,2016,91,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Dzire (purchased in 2016) is due for service in 91 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF793). Valid until 02-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Zachary,Low
+OMR,Corporate,Maruti,Swift,2021,62,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Swift (purchased in 2021) is due for service in 62 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF424). Valid until 25-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",John,Medium
+Velachery,Corporate,Maruti,Baleno,2017,-27,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Baleno (purchased in 2017) is due for service in -27 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF636). Valid until 25-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Cassandra,
+Anna Nagar,Corporate,Maruti,Swift,2015,2,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Swift (purchased in 2015) is due for service in 2 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF800). Valid until 07-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Megan,High
+T Nagar,Corporate,Honda,City,2018,-143,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Honda City (purchased in 2018) is due for service in -143 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF463). Valid until 04-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",George,
+Anna Nagar,Fleet,Maruti,Swift,2021,34,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Swift (purchased in 2021) is due for service in 34 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF643). Valid until 13-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Audrey,Medium-High
+T Nagar,Retail,Maruti,Swift,2018,2,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Swift (purchased in 2018) is due for service in 2 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF297). Valid until 01-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Karen,High
+Anna Nagar,Corporate,Honda,Amaze,2018,32,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Honda Amaze (purchased in 2018) is due for service in 32 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF795). Valid until 14-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Kimberly,Medium-High
+OMR,Retail,Maruti,Baleno,2022,2,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Baleno (purchased in 2022) is due for service in 2 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF819). Valid until 07-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Rodney,High
+T Nagar,Fleet,Honda,Jazz,2018,-57,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda Jazz (purchased in 2018) is due for service in -57 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF549). Valid until 30-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Christine,
+OMR,Fleet,Honda,City,2018,-27,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2018) is due for service in -27 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF144). Valid until 14-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Jason,
+T Nagar,Retail,Maruti,Baleno,2015,-27,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Baleno (purchased in 2015) is due for service in -27 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF500). Valid until 22-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Donald,
+OMR,Fleet,Maruti,Dzire,2015,35,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Dzire (purchased in 2015) is due for service in 35 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF560). Valid until 15-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Kayla,Medium-High
+T Nagar,Retail,Maruti,Swift,2018,2,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Swift (purchased in 2018) is due for service in 2 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF297). Valid until 01-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Karen,High
+OMR,Corporate,Maruti,Baleno,2019,-84,['Email'],"Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Baleno (purchased in 2019) is due for service in -84 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF528). Valid until 30-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Brittany,
+T Nagar,Corporate,Ford,Aspire,2017,93,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Ford Aspire (purchased in 2017) is due for service in 93 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF934). Valid until 08-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Tanya,Low
+Velachery,Corporate,Honda,Jazz,2021,62,['Email'],"Dear Valued Customer,
+
+We hope this message finds you well. Your Honda Jazz (purchased in 2021) is due for service in 62 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF994). Valid until 01-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Cheryl,Medium
+OMR,Retail,Honda,City,2022,62,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2022) is due for service in 62 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF551). Valid until 12-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Mandy,Medium
+OMR,Retail,Hyundai,i10,2017,-55,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai i10 (purchased in 2017) is due for service in -55 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF278). Valid until 23-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Angela,
+Anna Nagar,Fleet,Ford,Figo,2022,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford Figo (purchased in 2022) is due for service in 32 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF844). Valid until 19-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Adam,Medium-High
+Anna Nagar,Fleet,Maruti,Dzire,2016,91,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Dzire (purchased in 2016) is due for service in 91 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF793). Valid until 02-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Zachary,Low
+Anna Nagar,Corporate,Toyota,Innova,2015,62,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Toyota Innova (purchased in 2015) is due for service in 62 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF495). Valid until 26-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Carlos,Medium
+OMR,Retail,Ford,Figo,2016,-86,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford Figo (purchased in 2016) is due for service in -86 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF992). Valid until 04-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Theresa,
+Velachery,Corporate,Maruti,Baleno,2017,-27,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Baleno (purchased in 2017) is due for service in -27 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF636). Valid until 25-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Cassandra,
+Anna Nagar,Corporate,Maruti,Swift,2015,2,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Swift (purchased in 2015) is due for service in 2 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF800). Valid until 07-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Megan,High
+T Nagar,Corporate,Honda,City,2018,-143,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Honda City (purchased in 2018) is due for service in -143 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF463). Valid until 04-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",George,
+OMR,Retail,Hyundai,i10,2018,-27,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai i10 (purchased in 2018) is due for service in -27 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF688). Valid until 22-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Jonathan,
+OMR,Fleet,Hyundai,Creta,2016,91,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai Creta (purchased in 2016) is due for service in 91 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF577). Valid until 26-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Brian,Low
+Velachery,Retail,Toyota,Innova,2018,32,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Innova (purchased in 2018) is due for service in 32 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF988). Valid until 21-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Monique,Medium-High
+OMR,Fleet,Maruti,Dzire,2018,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Dzire (purchased in 2018) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF841). Valid until 27-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Carol,Medium-High
+OMR,Corporate,Maruti,Baleno,2019,-84,['Email'],"Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Baleno (purchased in 2019) is due for service in -84 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF528). Valid until 30-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Brittany,
+Anna Nagar,Corporate,Honda,Amaze,2019,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Honda Amaze (purchased in 2019) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF106). Valid until 31-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Christopher,Medium-High
+Anna Nagar,Fleet,Ford,Figo,2022,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford Figo (purchased in 2022) is due for service in 32 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF844). Valid until 19-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Adam,Medium-High
+OMR,Corporate,Maruti,Baleno,2020,-114,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Baleno (purchased in 2020) is due for service in -114 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF329). Valid until 31-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Karen,
+OMR,Fleet,Honda,City,2020,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2020) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF486). Valid until 08-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",John,Medium-High
+OMR,Fleet,Honda,City,2018,-27,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2018) is due for service in -27 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF144). Valid until 14-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Jason,
+OMR,Retail,Honda,City,2015,5,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2015) is due for service in 5 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF564). Valid until 31-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Paul,High
+Anna Nagar,Corporate,Toyota,Etios,2015,-57,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Toyota Etios (purchased in 2015) is due for service in -57 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF582). Valid until 12-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Shane,
+OMR,Corporate,Ford,EcoSport,2016,-113,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Ford EcoSport (purchased in 2016) is due for service in -113 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF944). Valid until 09-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Linda,
+Velachery,Retail,Toyota,Innova,2018,32,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Innova (purchased in 2018) is due for service in 32 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF988). Valid until 21-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Monique,Medium-High
+OMR,Corporate,Maruti,Baleno,2020,-114,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Baleno (purchased in 2020) is due for service in -114 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF329). Valid until 31-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Karen,
+Anna Nagar,Corporate,Toyota,Innova,2018,34,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Toyota Innova (purchased in 2018) is due for service in 34 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF787). Valid until 16-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Michael,Medium-High
+Velachery,Retail,Honda,City,2018,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2018) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF515). Valid until 20-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Stephanie,Medium-High
+Anna Nagar,Fleet,Honda,City,2019,-114,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2019) is due for service in -114 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF955). Valid until 28-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Andrew,
+OMR,Fleet,Maruti,Dzire,2015,35,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Dzire (purchased in 2015) is due for service in 35 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF560). Valid until 15-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Kayla,Medium-High
+OMR,Retail,Maruti,Baleno,2022,2,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Baleno (purchased in 2022) is due for service in 2 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF819). Valid until 07-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Rodney,High
+Anna Nagar,Corporate,Honda,Amaze,2019,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Honda Amaze (purchased in 2019) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF106). Valid until 31-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Christopher,Medium-High
+Velachery,Fleet,Maruti,Dzire,2016,62,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Dzire (purchased in 2016) is due for service in 62 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF960). Valid until 28-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Perry,Medium
+OMR,Retail,Hyundai,i10,2018,-86,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai i10 (purchased in 2018) is due for service in -86 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF936). Valid until 03-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Susan,
+OMR,Fleet,Maruti,Dzire,2015,35,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Dzire (purchased in 2015) is due for service in 35 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF560). Valid until 15-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Kayla,Medium-High
+OMR,Retail,Ford,Figo,2016,-86,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford Figo (purchased in 2016) is due for service in -86 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF992). Valid until 04-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Theresa,
+T Nagar,Fleet,Honda,Jazz,2018,-57,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda Jazz (purchased in 2018) is due for service in -57 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF549). Valid until 30-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Christine,
+Anna Nagar,Fleet,Ford,Figo,2022,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford Figo (purchased in 2022) is due for service in 32 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF844). Valid until 19-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Adam,Medium-High
+OMR,Retail,Honda,City,2022,5,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2022) is due for service in 5 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF799). Valid until 12-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",David,High
+OMR,Corporate,Ford,EcoSport,2016,-113,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Ford EcoSport (purchased in 2016) is due for service in -113 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF944). Valid until 09-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Linda,
+OMR,Retail,Honda,City,2015,5,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2015) is due for service in 5 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF564). Valid until 31-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Paul,High
+OMR,Fleet,Ford,EcoSport,2017,64,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford EcoSport (purchased in 2017) is due for service in 64 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF435). Valid until 13-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",John,Medium
+Velachery,Retail,Toyota,Innova,2018,32,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Innova (purchased in 2018) is due for service in 32 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF988). Valid until 21-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Monique,Medium-High
+T Nagar,Corporate,Hyundai,Creta,2019,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Hyundai Creta (purchased in 2019) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF849). Valid until 03-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Richard,Medium-High
+Velachery,Corporate,Hyundai,i10,2017,-27,['Email'],"Dear Valued Customer,
+
+We hope this message finds you well. Your Hyundai i10 (purchased in 2017) is due for service in -27 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF689). Valid until 29-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Krystal,
+T Nagar,Corporate,Maruti,Dzire,2020,-25,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Dzire (purchased in 2020) is due for service in -25 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF909). Valid until 14-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Nicholas,
+T Nagar,Corporate,Maruti,Dzire,2020,-25,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Dzire (purchased in 2020) is due for service in -25 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF909). Valid until 14-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Nicholas,
+OMR,Retail,Hyundai,i10,2018,-86,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai i10 (purchased in 2018) is due for service in -86 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF936). Valid until 03-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Susan,
+Anna Nagar,Fleet,Honda,City,2019,-114,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2019) is due for service in -114 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF955). Valid until 28-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Andrew,
+Anna Nagar,Fleet,Toyota,Etios,2017,-27,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Etios (purchased in 2017) is due for service in -27 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF201). Valid until 13-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Lynn,
+T Nagar,Corporate,Hyundai,Creta,2019,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Hyundai Creta (purchased in 2019) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF849). Valid until 03-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Richard,Medium-High
+Velachery,Fleet,Ford,EcoSport,2022,32,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford EcoSport (purchased in 2022) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF697). Valid until 04-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Deanna,Medium-High
+OMR,Retail,Toyota,Yaris,2018,-25,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Yaris (purchased in 2018) is due for service in -25 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF929). Valid until 01-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Andrew,
+Anna Nagar,Retail,Toyota,Yaris,2022,91,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Yaris (purchased in 2022) is due for service in 91 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF407). Valid until 02-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Gary,Low
+OMR,Fleet,Ford,EcoSport,2017,64,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford EcoSport (purchased in 2017) is due for service in 64 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF435). Valid until 13-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",John,Medium
+Velachery,Corporate,Maruti,Swift,2016,5,['Email'],"Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Swift (purchased in 2016) is due for service in 5 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF238). Valid until 12-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Shawn,High
+Anna Nagar,Corporate,Honda,Amaze,2018,32,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Honda Amaze (purchased in 2018) is due for service in 32 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF795). Valid until 14-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Kimberly,Medium-High
+T Nagar,Retail,Maruti,Baleno,2015,-27,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Baleno (purchased in 2015) is due for service in -27 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF500). Valid until 22-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Donald,
+Anna Nagar,Corporate,Maruti,Dzire,2018,34,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Dzire (purchased in 2018) is due for service in 34 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF412). Valid until 14-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Shelly,Medium-High
+T Nagar,Corporate,Ford,Figo,2018,-57,['Email'],"Dear Valued Customer,
+
+We hope this message finds you well. Your Ford Figo (purchased in 2018) is due for service in -57 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF105). Valid until 01-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Michele,
+T Nagar,Fleet,Honda,Jazz,2022,-84,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda Jazz (purchased in 2022) is due for service in -84 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF198). Valid until 24-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Amy,
+Anna Nagar,Corporate,Honda,Amaze,2018,32,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Honda Amaze (purchased in 2018) is due for service in 32 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF795). Valid until 14-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Kimberly,Medium-High
+Anna Nagar,Corporate,Hyundai,i20,2019,3,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Hyundai i20 (purchased in 2019) is due for service in 3 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF265). Valid until 31-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Ryan,High
+Anna Nagar,Fleet,Toyota,Yaris,2022,91,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Yaris (purchased in 2022) is due for service in 91 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF863). Valid until 25-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Michele,Low
+OMR,Fleet,Honda,City,2020,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2020) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF486). Valid until 08-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",John,Medium-High
+OMR,Retail,Honda,Amaze,2016,-143,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda Amaze (purchased in 2016) is due for service in -143 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF432). Valid until 01-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Shawn,
+Anna Nagar,Retail,Toyota,Yaris,2022,91,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Yaris (purchased in 2022) is due for service in 91 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF407). Valid until 02-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Gary,Low
+Anna Nagar,Corporate,Honda,Amaze,2019,32,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Honda Amaze (purchased in 2019) is due for service in 32 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF106). Valid until 31-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Christopher,Medium-High
+Velachery,Retail,Ford,Figo,2021,-54,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford Figo (purchased in 2021) is due for service in -54 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF207). Valid until 19-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Michelle,
+T Nagar,Retail,Ford,EcoSport,2015,35,['Email'],"Dear Valued Customer,
+
+Hope you're doing well. Your Ford EcoSport (purchased in 2015) is due for service in 35 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF350). Valid until 01-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Kimberly,Medium-High
+OMR,Fleet,Ford,EcoSport,2017,64,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford EcoSport (purchased in 2017) is due for service in 64 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF435). Valid until 13-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",John,Medium
+Velachery,Corporate,Hyundai,Creta,2021,61,['Email'],"Dear Valued Customer,
+
+We hope this message finds you well. Your Hyundai Creta (purchased in 2021) is due for service in 61 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF545). Valid until 25-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Katie,Medium
+Anna Nagar,Corporate,Maruti,Dzire,2018,34,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Maruti Dzire (purchased in 2018) is due for service in 34 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF412). Valid until 14-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[30, 15, 7, 3]",Shelly,Medium-High
+Anna Nagar,Corporate,Toyota,Etios,2015,-57,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Toyota Etios (purchased in 2015) is due for service in -57 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: 15% OFF AMC (Code: OFF582). Valid until 12-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Shane,
+OMR,Corporate,Ford,EcoSport,2016,-113,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+We hope this message finds you well. Your Ford EcoSport (purchased in 2016) is due for service in -113 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF944). Valid until 09-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Linda,
+OMR,Fleet,Toyota,Yaris,2016,5,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Toyota Yaris (purchased in 2016) is due for service in 5 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF779). Valid until 11-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Julia,High
+T Nagar,Retail,Maruti,Baleno,2015,-27,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Baleno (purchased in 2015) is due for service in -27 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF500). Valid until 22-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Donald,
+OMR,Fleet,Hyundai,Creta,2016,91,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai Creta (purchased in 2016) is due for service in 91 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Free Wash (Code: OFF577). Valid until 26-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Brian,Low
+OMR,Retail,Honda,City,2022,5,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Honda City (purchased in 2022) is due for service in 5 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF799). Valid until 12-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",David,High
+Anna Nagar,Fleet,Hyundai,Creta,2017,-143,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai Creta (purchased in 2017) is due for service in -143 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF694). Valid until 10-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Paula,
+Velachery,Fleet,Maruti,Dzire,2016,62,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Maruti Dzire (purchased in 2016) is due for service in 62 days.
+
+Regular maintenance ensures optimal performance. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF960). Valid until 28-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[60, 30, 15, 7]",Perry,Medium
+Velachery,Corporate,Hyundai,i10,2017,-27,['Email'],"Dear Valued Customer,
+
+We hope this message finds you well. Your Hyundai i10 (purchased in 2017) is due for service in -27 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: Engine Oil Discount (Code: OFF689). Valid until 29-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Krystal,
+Anna Nagar,Fleet,Hyundai,Creta,2017,-143,"['WhatsApp', 'Email', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Hyundai Creta (purchased in 2017) is due for service in -143 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF694). Valid until 10-08-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Paula,
+Velachery,Retail,Ford,Figo,2021,-54,"['WhatsApp', 'SMS']","Dear Valued Customer,
+
+Hope you're doing well. Your Ford Figo (purchased in 2021) is due for service in -54 days.
+
+As an AMC holder, you're eligible for special benefits. Please schedule your service at your earliest convenience.
+
+Special offer for you: 10% OFF Labour (Code: OFF207). Valid until 19-07-2025.
+
+Best regards,
+AutoMoto AI Service Team","[7, 3, 1]",Michelle,

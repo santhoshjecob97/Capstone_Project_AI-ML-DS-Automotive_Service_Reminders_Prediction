@@ -1,0 +1,170 @@
+make,model,location,age_of_vehicle,odometer_reading,next_service_due_days,last_service_kms,avg_kms_per_month,last_service_cost,days_since_last_service,number_of_services,warranty_status,insurance_status,fuel_type,transmission,customer_type,customer_feedback,AMC_status,service_needed_soon,latitude,longitude,predicted_service_need,confidence,offer_description,eligible_offer_code,dealer_brand,dealer_dealership_name,dealer_location,dealer_latitude,dealer_longitude,dealer_contact_number,dealer_service_advisor,dealer_is_premium,dealer_working_hours,dealer_is_saas_partner,dealer_distance_km,saas_message,dealership_message
+Toyota,Innova,Anna Nagar,3,45000,90,5000,1250,5000,120,3,Expired,Active,Petrol,Manual,Retail,Good,Active,1,13.0878,80.2119,1,1.0,Thank you for your loyalty! Get a complimentary vehicle checkup with your next service.,AMAI-CHECKUP,Toyota,Lanson Toyota - Anna Nagar,Anna Nagar,13.0878,80.2119,+91 44 2620 2846,Mr. Rajesh Shetty,True,9:30 AM - 7:30 PM (Weekend Special),True,0.0,"Dear Retail Customer,
+
+Our AutoMoto AI Smart Service System recommends service for your Toyota Innova within 90 days.
+
+Your nearest premium AutoMoto AI-partnered service center:
+Lanson Toyota - Anna Nagar
+Location: Anna Nagar
+Contact: +91 44 2620 2846
+Service Advisor: Mr. Rajesh Shetty
+Working Hours: 9:30 AM - 7:30 PM (Weekend Special)
+
+Special Offer Just for You:
+Thank you for your loyalty! Get a complimentary vehicle checkup with your next service.
+Use Code: AMAI-CHECKUP
+
+Book through our AutoMoto AI portal for priority service and tracking.
+
+Best regards,
+AutoMoto AI Team","Dear Valued Toyota Owner,
+
+Your vehicle is due for service at Lanson Toyota - Anna Nagar.
+
+We've assigned Mr. Rajesh Shetty as your personal service advisor.
+Contact directly at +91 44 2620 2846 for immediate assistance.
+
+Special Offer Just for You:
+Thank you for your loyalty! Get a complimentary vehicle checkup with your next service.
+Use Code: AMAI-CHECKUP
+
+Working Hours: 9:30 AM - 7:30 PM (Weekend Special)
+Walk-ins welcome, but appointments recommended.
+
+Your Lanson Toyota - Anna Nagar Team"
+Hyundai,Creta,Velachery,2,22000,30,2500,1100,4000,30,2,Active,Active,Diesel,Automatic,Fleet,Poor Service,Not Subscribed,1,12.985,80.2165,1,1.0,We value your feedback. Enjoy 15% OFF on your next service as our apology.,AMAI-PROMO15,Hyundai,V3 Hyundai - Velachery,Velachery,12.985,80.2165,+91 44 2246 2694,Mr. Rajesh Nair,True,8:00 AM - 8:00 PM (24/7 Service Available),True,0.0,"Dear Fleet Customer,
+
+Our AutoMoto AI Smart Service System recommends service for your Hyundai Creta within 30 days.
+
+Your nearest premium AutoMoto AI-partnered service center:
+V3 Hyundai - Velachery
+Location: Velachery
+Contact: +91 44 2246 2694
+Service Advisor: Mr. Rajesh Nair
+Working Hours: 8:00 AM - 8:00 PM (24/7 Service Available)
+
+Special Offer Just for You:
+We value your feedback. Enjoy 15% OFF on your next service as our apology.
+Use Code: AMAI-PROMO15
+
+Book through our AutoMoto AI portal for priority service and tracking.
+
+Best regards,
+AutoMoto AI Team","Dear Valued Hyundai Owner,
+
+Your vehicle is due for service at V3 Hyundai - Velachery.
+
+We've assigned Mr. Rajesh Nair as your personal service advisor.
+Contact directly at +91 44 2246 2694 for immediate assistance.
+
+We apologize for your last experience and guarantee better service this time.
+
+Special Offer Just for You:
+We value your feedback. Enjoy 15% OFF on your next service as our apology.
+Use Code: AMAI-PROMO15
+
+Working Hours: 8:00 AM - 8:00 PM (24/7 Service Available)
+Walk-ins welcome, but appointments recommended.
+
+Your V3 Hyundai - Velachery Team"
+Honda,City,OMR,4,60000,120,10000,1500,6000,200,5,Active,Expired,Petrol,Manual,Retail,Excellent,Active,1,12.9716,80.2497,1,1.0,Exclusive offer! 20% discount on parts replacement on your next visit.,AMAI-DISC20,Honda,Olympia Honda - OMR,OMR,12.9716,80.2497,+91 44 2498 5954,Mr. Dinesh Iyer,True,9:00 AM - 6:00 PM,True,0.0,"Dear Retail Customer,
+
+Our AutoMoto AI Smart Service System recommends service for your Honda City within 120 days.
+
+Your nearest premium AutoMoto AI-partnered service center:
+Olympia Honda - OMR
+Location: OMR
+Contact: +91 44 2498 5954
+Service Advisor: Mr. Dinesh Iyer
+Working Hours: 9:00 AM - 6:00 PM
+
+Special Offer Just for You:
+Exclusive offer! 20% discount on parts replacement on your next visit.
+Use Code: AMAI-DISC20
+
+Book through our AutoMoto AI portal for priority service and tracking.
+
+Best regards,
+AutoMoto AI Team","Dear Valued Honda Owner,
+
+Your vehicle is due for service at Olympia Honda - OMR.
+
+We've assigned Mr. Dinesh Iyer as your personal service advisor.
+Contact directly at +91 44 2498 5954 for immediate assistance.
+
+Special Offer Just for You:
+Exclusive offer! 20% discount on parts replacement on your next visit.
+Use Code: AMAI-DISC20
+
+Working Hours: 9:00 AM - 6:00 PM
+Walk-ins welcome, but appointments recommended.
+
+Your Olympia Honda - OMR Team"
+Maruti,Swift,T Nagar,1,10000,60,1200,800,3500,45,1,Expired,Active,Petrol,Automatic,Retail,Good,Not Subscribed,1,13.0478,80.2427,1,1.0,Thank you for your loyalty! Get a complimentary vehicle checkup with your next service.,AMAI-CHECKUP,Maruti,CARS India - Anna Nagar,Anna Nagar,13.0878,80.2119,+91 44 2620 2804,Mr. Manoj Nair,True,9:30 AM - 7:30 PM (Weekend Special),True,5.544473328393237,"Dear Retail Customer,
+
+Our AutoMoto AI Smart Service System recommends service for your Maruti Swift within 60 days.
+
+Your nearest premium AutoMoto AI-partnered service center:
+CARS India - Anna Nagar
+Location: Anna Nagar
+Contact: +91 44 2620 2804
+Service Advisor: Mr. Manoj Nair
+Working Hours: 9:30 AM - 7:30 PM (Weekend Special)
+
+Special Offer Just for You:
+Thank you for your loyalty! Get a complimentary vehicle checkup with your next service.
+Use Code: AMAI-CHECKUP
+
+Book through our AutoMoto AI portal for priority service and tracking.
+
+Best regards,
+AutoMoto AI Team","Dear Valued Maruti Owner,
+
+Your vehicle is due for service at CARS India - Anna Nagar.
+
+We've assigned Mr. Manoj Nair as your personal service advisor.
+Contact directly at +91 44 2620 2804 for immediate assistance.
+
+Special Offer Just for You:
+Thank you for your loyalty! Get a complimentary vehicle checkup with your next service.
+Use Code: AMAI-CHECKUP
+
+Working Hours: 9:30 AM - 7:30 PM (Weekend Special)
+Walk-ins welcome, but appointments recommended.
+
+Your CARS India - Anna Nagar Team"
+Ford,Fiesta,Adyar,5,80000,45,7000,1300,4500,180,4,Expired,Active,Diesel,Manual,Fleet,Poor Service,Active,1,13.0067,80.2566,1,1.0,We value your feedback. Enjoy 15% OFF on your next service as our apology.,AMAI-PROMO15,Ford,MPL Ford - OMR (Service),OMR,12.9716,80.2497,+91 44 2498 9418,Mr. Manoj Menon,True,10:00 AM - 5:00 PM (Service Only),True,3.954622856068954,"Dear Fleet Customer,
+
+Our AutoMoto AI Smart Service System recommends service for your Ford Fiesta within 45 days.
+
+Your nearest premium AutoMoto AI-partnered service center:
+MPL Ford - OMR (Service)
+Location: OMR
+Contact: +91 44 2498 9418
+Service Advisor: Mr. Manoj Menon
+Working Hours: 10:00 AM - 5:00 PM (Service Only)
+
+Special Offer Just for You:
+We value your feedback. Enjoy 15% OFF on your next service as our apology.
+Use Code: AMAI-PROMO15
+
+Book through our AutoMoto AI portal for priority service and tracking.
+
+Best regards,
+AutoMoto AI Team","Dear Valued Ford Owner,
+
+Your vehicle is due for service at MPL Ford - OMR (Service).
+
+We've assigned Mr. Manoj Menon as your personal service advisor.
+Contact directly at +91 44 2498 9418 for immediate assistance.
+
+We apologize for your last experience and guarantee better service this time.
+
+Special Offer Just for You:
+We value your feedback. Enjoy 15% OFF on your next service as our apology.
+Use Code: AMAI-PROMO15
+
+Working Hours: 10:00 AM - 5:00 PM (Service Only)
+Walk-ins welcome, but appointments recommended.
+
+Your MPL Ford - OMR (Service) Team"

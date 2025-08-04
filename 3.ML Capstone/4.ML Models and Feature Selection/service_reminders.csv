@@ -1,0 +1,1079 @@
+location,customer_type,make,model,year_of_purchase,next_service_due_days,customer_feedback,feedback_score,reminder_message,channels,telecaller_name
+OMR,Retail,Ford,Figo,2016,-86,Average,1,"Dear Retail Customer,
+
+Our records indicate your Ford Figo (purchased in 2016) needs service urgently. Recommended service in -86 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Free Wash (Code: OFF992).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Theresa
+Anna Nagar,Corporate,Toyota,Innova,2018,34,Delayed Pickup,4,"Dear Corporate Customer,
+
+Our records indicate your Toyota Innova (purchased in 2018) needs service soon. Recommended service in 34 days.
+
+Special offer: Free Wash (Code: OFF787).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Michael
+T Nagar,Corporate,Toyota,Etios,2017,91,Delayed Pickup,5,"Dear Corporate Customer,
+
+Our records indicate your Toyota Etios (purchased in 2017) needs service soon. Recommended service in 91 days.
+
+Special offer: Engine Oil Discount (Code: OFF100).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Brian
+T Nagar,Retail,Maruti,Swift,2018,2,Unresponsive,5,"Dear Retail Customer,
+
+Our records indicate your Maruti Swift (purchased in 2018) needs service urgently. Recommended service in 2 days.
+
+Special offer: 15% OFF AMC (Code: OFF297).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Karen
+Velachery,Retail,Hyundai,i20,2021,-113,Satisfied,4,"Dear Retail Customer,
+
+Our records indicate your Hyundai i20 (purchased in 2021) needs service urgently. Recommended service in -113 days.
+
+Special offer: Engine Oil Discount (Code: OFF255).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Karen
+OMR,Retail,Hyundai,i10,2018,-86,Average,5,"Dear Retail Customer,
+
+Our records indicate your Hyundai i10 (purchased in 2018) needs service urgently. Recommended service in -86 days.
+
+Special offer: Engine Oil Discount (Code: OFF936).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Susan
+OMR,Fleet,Hyundai,Creta,2016,91,Unresponsive,4,"Dear Fleet Customer,
+
+Our records indicate your Hyundai Creta (purchased in 2016) needs service soon. Recommended service in 91 days.
+
+Special offer: Free Wash (Code: OFF577).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Brian
+OMR,Retail,Toyota,Yaris,2018,-25,Poor Service,1,"Dear Retail Customer,
+
+Our records indicate your Toyota Yaris (purchased in 2018) needs service urgently. Recommended service in -25 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 10% OFF Labour (Code: OFF929).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Andrew
+T Nagar,Corporate,Toyota,Etios,2017,91,Satisfied,5,"Dear Corporate Customer,
+
+Our records indicate your Toyota Etios (purchased in 2017) needs service soon. Recommended service in 91 days.
+
+Special offer: Engine Oil Discount (Code: OFF100).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Brian
+OMR,Fleet,Honda,City,2018,-27,Smooth Process,4,"Dear Fleet Customer,
+
+Our records indicate your Honda City (purchased in 2018) needs service urgently. Recommended service in -27 days.
+
+Special offer: 15% OFF AMC (Code: OFF144).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Jason
+Anna Nagar,Corporate,Maruti,Swift,2015,2,Smooth Process,3,"Dear Corporate Customer,
+
+Our records indicate your Maruti Swift (purchased in 2015) needs service urgently. Recommended service in 2 days.
+
+Special offer: 15% OFF AMC (Code: OFF800).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['SMS', 'WhatsApp']",Megan
+Anna Nagar,Corporate,Toyota,Innova,2015,62,Smooth Process,4,"Dear Corporate Customer,
+
+Our records indicate your Toyota Innova (purchased in 2015) needs service soon. Recommended service in 62 days.
+
+Special offer: Engine Oil Discount (Code: OFF495).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Carlos
+Velachery,Corporate,Hyundai,Creta,2021,61,Smooth Process,4,"Dear Corporate Customer,
+
+Our records indicate your Hyundai Creta (purchased in 2021) needs service soon. Recommended service in 61 days.
+
+Special offer: Free Wash (Code: OFF545).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Katie
+Velachery,Corporate,Maruti,Swift,2016,5,Smooth Process,4,"Dear Corporate Customer,
+
+Our records indicate your Maruti Swift (purchased in 2016) needs service urgently. Recommended service in 5 days.
+
+Special offer: 10% OFF Labour (Code: OFF238).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Shawn
+OMR,Retail,Hyundai,i10,2018,-27,Smooth Process,2,"Dear Retail Customer,
+
+Our records indicate your Hyundai i10 (purchased in 2018) needs service urgently. Recommended service in -27 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 15% OFF AMC (Code: OFF688).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Jonathan
+Anna Nagar,Fleet,Toyota,Etios,2017,-27,Unresponsive,3,"Dear Fleet Customer,
+
+Our records indicate your Toyota Etios (purchased in 2017) needs service urgently. Recommended service in -27 days.
+
+Special offer: Free Wash (Code: OFF201).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Lynn
+OMR,Retail,Honda,City,2022,62,Satisfied,4,"Dear Retail Customer,
+
+Our records indicate your Honda City (purchased in 2022) needs service soon. Recommended service in 62 days.
+
+Special offer: 15% OFF AMC (Code: OFF551).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Mandy
+OMR,Retail,Maruti,Baleno,2022,2,Satisfied,4,"Dear Retail Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2022) needs service urgently. Recommended service in 2 days.
+
+Special offer: Free Wash (Code: OFF819).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Rodney
+T Nagar,Fleet,Honda,Jazz,2018,-57,Average,4,"Dear Fleet Customer,
+
+Our records indicate your Honda Jazz (purchased in 2018) needs service urgently. Recommended service in -57 days.
+
+Special offer: 10% OFF Labour (Code: OFF549).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Christine
+Anna Nagar,Corporate,Toyota,Innova,2015,62,Smooth Process,5,"Dear Corporate Customer,
+
+Our records indicate your Toyota Innova (purchased in 2015) needs service soon. Recommended service in 62 days.
+
+Special offer: Engine Oil Discount (Code: OFF495).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Carlos
+Velachery,Retail,Honda,City,2018,32,Smooth Process,5,"Dear Retail Customer,
+
+Our records indicate your Honda City (purchased in 2018) needs service soon. Recommended service in 32 days.
+
+Special offer: 10% OFF Labour (Code: OFF515).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Stephanie
+Velachery,Fleet,Ford,Figo,2016,91,Average,1,"Dear Fleet Customer,
+
+Our records indicate your Ford Figo (purchased in 2016) needs service soon. Recommended service in 91 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Engine Oil Discount (Code: OFF186).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],George
+Anna Nagar,Fleet,Hyundai,Creta,2017,-143,Unresponsive,3,"Dear Fleet Customer,
+
+Our records indicate your Hyundai Creta (purchased in 2017) needs service urgently. Recommended service in -143 days.
+
+Special offer: 10% OFF Labour (Code: OFF694).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Paula
+Anna Nagar,Fleet,Maruti,Dzire,2016,91,Smooth Process,4,"Dear Fleet Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2016) needs service soon. Recommended service in 91 days.
+
+Special offer: 15% OFF AMC (Code: OFF793).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Zachary
+Velachery,Corporate,Maruti,Baleno,2017,-27,Poor Service,1,"Dear Corporate Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2017) needs service urgently. Recommended service in -27 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 15% OFF AMC (Code: OFF636).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Cassandra
+Anna Nagar,Corporate,Maruti,Swift,2015,2,Satisfied,3,"Dear Corporate Customer,
+
+Our records indicate your Maruti Swift (purchased in 2015) needs service urgently. Recommended service in 2 days.
+
+Special offer: 15% OFF AMC (Code: OFF800).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['SMS', 'WhatsApp']",Megan
+T Nagar,Corporate,Honda,City,2018,-143,Unresponsive,4,"Dear Corporate Customer,
+
+Our records indicate your Honda City (purchased in 2018) needs service urgently. Recommended service in -143 days.
+
+Special offer: 15% OFF AMC (Code: OFF463).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['SMS', 'WhatsApp']",George
+Anna Nagar,Fleet,Maruti,Swift,2021,34,Average,4,"Dear Fleet Customer,
+
+Our records indicate your Maruti Swift (purchased in 2021) needs service soon. Recommended service in 34 days.
+
+Special offer: Free Wash (Code: OFF643).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Audrey
+T Nagar,Retail,Maruti,Swift,2018,2,Poor Service,3,"Dear Retail Customer,
+
+Our records indicate your Maruti Swift (purchased in 2018) needs service urgently. Recommended service in 2 days.
+
+Special offer: 15% OFF AMC (Code: OFF297).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Karen
+Anna Nagar,Corporate,Honda,Amaze,2018,32,Poor Service,4,"Dear Corporate Customer,
+
+Our records indicate your Honda Amaze (purchased in 2018) needs service soon. Recommended service in 32 days.
+
+Special offer: 15% OFF AMC (Code: OFF795).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Kimberly
+OMR,Retail,Maruti,Baleno,2022,2,Poor Service,3,"Dear Retail Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2022) needs service urgently. Recommended service in 2 days.
+
+Special offer: Free Wash (Code: OFF819).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Rodney
+OMR,Fleet,Honda,City,2018,-27,Satisfied,3,"Dear Fleet Customer,
+
+Our records indicate your Honda City (purchased in 2018) needs service urgently. Recommended service in -27 days.
+
+Special offer: 15% OFF AMC (Code: OFF144).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Jason
+T Nagar,Retail,Maruti,Baleno,2015,-27,Average,3,"Dear Retail Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2015) needs service urgently. Recommended service in -27 days.
+
+Special offer: Engine Oil Discount (Code: OFF500).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Donald
+OMR,Fleet,Maruti,Dzire,2015,35,Delayed Pickup,2,"Dear Fleet Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2015) needs service soon. Recommended service in 35 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Free Wash (Code: OFF560).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Kayla
+T Nagar,Retail,Maruti,Swift,2018,2,Satisfied,4,"Dear Retail Customer,
+
+Our records indicate your Maruti Swift (purchased in 2018) needs service urgently. Recommended service in 2 days.
+
+Special offer: 15% OFF AMC (Code: OFF297).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Karen
+T Nagar,Corporate,Ford,Aspire,2017,93,Average,3,"Dear Corporate Customer,
+
+Our records indicate your Ford Aspire (purchased in 2017) needs service soon. Recommended service in 93 days.
+
+Special offer: Engine Oil Discount (Code: OFF934).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Tanya
+Velachery,Corporate,Honda,Jazz,2021,62,Average,5,"Dear Corporate Customer,
+
+Our records indicate your Honda Jazz (purchased in 2021) needs service soon. Recommended service in 62 days.
+
+Special offer: 10% OFF Labour (Code: OFF994).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Cheryl
+OMR,Retail,Honda,City,2022,62,Smooth Process,3,"Dear Retail Customer,
+
+Our records indicate your Honda City (purchased in 2022) needs service soon. Recommended service in 62 days.
+
+Special offer: 15% OFF AMC (Code: OFF551).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Mandy
+OMR,Retail,Hyundai,i10,2017,-55,Smooth Process,4,"Dear Retail Customer,
+
+Our records indicate your Hyundai i10 (purchased in 2017) needs service urgently. Recommended service in -55 days.
+
+Special offer: 15% OFF AMC (Code: OFF278).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Angela
+Anna Nagar,Fleet,Ford,Figo,2022,32,Average,4,"Dear Fleet Customer,
+
+Our records indicate your Ford Figo (purchased in 2022) needs service soon. Recommended service in 32 days.
+
+Special offer: 10% OFF Labour (Code: OFF844).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Adam
+Anna Nagar,Fleet,Maruti,Dzire,2016,91,Smooth Process,4,"Dear Fleet Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2016) needs service soon. Recommended service in 91 days.
+
+Special offer: 15% OFF AMC (Code: OFF793).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Zachary
+Anna Nagar,Corporate,Toyota,Innova,2015,62,Delayed Pickup,5,"Dear Corporate Customer,
+
+Our records indicate your Toyota Innova (purchased in 2015) needs service soon. Recommended service in 62 days.
+
+Special offer: Engine Oil Discount (Code: OFF495).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Carlos
+Velachery,Corporate,Maruti,Baleno,2017,-27,Average,4,"Dear Corporate Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2017) needs service urgently. Recommended service in -27 days.
+
+Special offer: 15% OFF AMC (Code: OFF636).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Cassandra
+Anna Nagar,Corporate,Maruti,Swift,2015,2,Poor Service,4,"Dear Corporate Customer,
+
+Our records indicate your Maruti Swift (purchased in 2015) needs service urgently. Recommended service in 2 days.
+
+Special offer: 15% OFF AMC (Code: OFF800).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['SMS', 'WhatsApp']",Megan
+T Nagar,Corporate,Honda,City,2018,-143,Smooth Process,2,"Dear Corporate Customer,
+
+Our records indicate your Honda City (purchased in 2018) needs service urgently. Recommended service in -143 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 15% OFF AMC (Code: OFF463).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['SMS', 'WhatsApp']",George
+OMR,Retail,Hyundai,i10,2018,-27,Satisfied,3,"Dear Retail Customer,
+
+Our records indicate your Hyundai i10 (purchased in 2018) needs service urgently. Recommended service in -27 days.
+
+Special offer: 15% OFF AMC (Code: OFF688).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Jonathan
+OMR,Fleet,Hyundai,Creta,2016,91,Average,3,"Dear Fleet Customer,
+
+Our records indicate your Hyundai Creta (purchased in 2016) needs service soon. Recommended service in 91 days.
+
+Special offer: Free Wash (Code: OFF577).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Brian
+OMR,Fleet,Maruti,Dzire,2018,32,Smooth Process,2,"Dear Fleet Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2018) needs service soon. Recommended service in 32 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 10% OFF Labour (Code: OFF841).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Carol
+OMR,Corporate,Maruti,Baleno,2019,-84,Delayed Pickup,1,"Dear Corporate Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2019) needs service urgently. Recommended service in -84 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Engine Oil Discount (Code: OFF528).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Brittany
+Anna Nagar,Corporate,Honda,Amaze,2019,32,Delayed Pickup,4,"Dear Corporate Customer,
+
+Our records indicate your Honda Amaze (purchased in 2019) needs service soon. Recommended service in 32 days.
+
+Special offer: Engine Oil Discount (Code: OFF106).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Christopher
+Anna Nagar,Fleet,Ford,Figo,2022,32,Average,3,"Dear Fleet Customer,
+
+Our records indicate your Ford Figo (purchased in 2022) needs service soon. Recommended service in 32 days.
+
+Special offer: 10% OFF Labour (Code: OFF844).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Adam
+OMR,Corporate,Maruti,Baleno,2020,-114,Delayed Pickup,1,"Dear Corporate Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2020) needs service urgently. Recommended service in -114 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 10% OFF Labour (Code: OFF329).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Karen
+OMR,Fleet,Honda,City,2020,32,Average,2,"Dear Fleet Customer,
+
+Our records indicate your Honda City (purchased in 2020) needs service soon. Recommended service in 32 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Engine Oil Discount (Code: OFF486).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",John
+OMR,Fleet,Honda,City,2018,-27,Satisfied,4,"Dear Fleet Customer,
+
+Our records indicate your Honda City (purchased in 2018) needs service urgently. Recommended service in -27 days.
+
+Special offer: 15% OFF AMC (Code: OFF144).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Jason
+OMR,Retail,Honda,City,2015,5,Unresponsive,1,"Dear Retail Customer,
+
+Our records indicate your Honda City (purchased in 2015) needs service urgently. Recommended service in 5 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 10% OFF Labour (Code: OFF564).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Paul
+OMR,Corporate,Ford,EcoSport,2016,-113,Satisfied,3,"Dear Corporate Customer,
+
+Our records indicate your Ford EcoSport (purchased in 2016) needs service urgently. Recommended service in -113 days.
+
+Special offer: Free Wash (Code: OFF944).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Linda
+OMR,Corporate,Maruti,Baleno,2020,-114,Delayed Pickup,4,"Dear Corporate Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2020) needs service urgently. Recommended service in -114 days.
+
+Special offer: 10% OFF Labour (Code: OFF329).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Karen
+Anna Nagar,Corporate,Toyota,Innova,2018,34,Smooth Process,3,"Dear Corporate Customer,
+
+Our records indicate your Toyota Innova (purchased in 2018) needs service soon. Recommended service in 34 days.
+
+Special offer: Free Wash (Code: OFF787).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Michael
+Velachery,Retail,Honda,City,2018,32,Poor Service,4,"Dear Retail Customer,
+
+Our records indicate your Honda City (purchased in 2018) needs service soon. Recommended service in 32 days.
+
+Special offer: 10% OFF Labour (Code: OFF515).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Stephanie
+Anna Nagar,Fleet,Honda,City,2019,-114,Smooth Process,3,"Dear Fleet Customer,
+
+Our records indicate your Honda City (purchased in 2019) needs service urgently. Recommended service in -114 days.
+
+Special offer: Free Wash (Code: OFF955).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Andrew
+OMR,Fleet,Maruti,Dzire,2015,35,Satisfied,4,"Dear Fleet Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2015) needs service soon. Recommended service in 35 days.
+
+Special offer: Free Wash (Code: OFF560).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Kayla
+OMR,Retail,Maruti,Baleno,2022,2,Unresponsive,3,"Dear Retail Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2022) needs service urgently. Recommended service in 2 days.
+
+Special offer: Free Wash (Code: OFF819).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Rodney
+Anna Nagar,Corporate,Honda,Amaze,2019,32,Delayed Pickup,5,"Dear Corporate Customer,
+
+Our records indicate your Honda Amaze (purchased in 2019) needs service soon. Recommended service in 32 days.
+
+Special offer: Engine Oil Discount (Code: OFF106).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Christopher
+Velachery,Fleet,Maruti,Dzire,2016,62,Delayed Pickup,1,"Dear Fleet Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2016) needs service soon. Recommended service in 62 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Engine Oil Discount (Code: OFF960).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Perry
+OMR,Retail,Hyundai,i10,2018,-86,Poor Service,2,"Dear Retail Customer,
+
+Our records indicate your Hyundai i10 (purchased in 2018) needs service urgently. Recommended service in -86 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Engine Oil Discount (Code: OFF936).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Susan
+OMR,Fleet,Maruti,Dzire,2015,35,Average,4,"Dear Fleet Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2015) needs service soon. Recommended service in 35 days.
+
+Special offer: Free Wash (Code: OFF560).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Kayla
+OMR,Retail,Ford,Figo,2016,-86,Average,1,"Dear Retail Customer,
+
+Our records indicate your Ford Figo (purchased in 2016) needs service urgently. Recommended service in -86 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Free Wash (Code: OFF992).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Theresa
+T Nagar,Fleet,Honda,Jazz,2018,-57,Average,4,"Dear Fleet Customer,
+
+Our records indicate your Honda Jazz (purchased in 2018) needs service urgently. Recommended service in -57 days.
+
+Special offer: 10% OFF Labour (Code: OFF549).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Christine
+Anna Nagar,Fleet,Ford,Figo,2022,32,Average,5,"Dear Fleet Customer,
+
+Our records indicate your Ford Figo (purchased in 2022) needs service soon. Recommended service in 32 days.
+
+Special offer: 10% OFF Labour (Code: OFF844).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Adam
+OMR,Retail,Honda,City,2022,5,Poor Service,2,"Dear Retail Customer,
+
+Our records indicate your Honda City (purchased in 2022) needs service urgently. Recommended service in 5 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Engine Oil Discount (Code: OFF799).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['SMS', 'WhatsApp']",David
+OMR,Corporate,Ford,EcoSport,2016,-113,Unresponsive,1,"Dear Corporate Customer,
+
+Our records indicate your Ford EcoSport (purchased in 2016) needs service urgently. Recommended service in -113 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Free Wash (Code: OFF944).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Linda
+OMR,Retail,Honda,City,2015,5,Smooth Process,1,"Dear Retail Customer,
+
+Our records indicate your Honda City (purchased in 2015) needs service urgently. Recommended service in 5 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 10% OFF Labour (Code: OFF564).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Paul
+OMR,Fleet,Ford,EcoSport,2017,64,Unresponsive,4,"Dear Fleet Customer,
+
+Our records indicate your Ford EcoSport (purchased in 2017) needs service soon. Recommended service in 64 days.
+
+Special offer: 15% OFF AMC (Code: OFF435).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],John
+T Nagar,Corporate,Hyundai,Creta,2019,32,Unresponsive,5,"Dear Corporate Customer,
+
+Our records indicate your Hyundai Creta (purchased in 2019) needs service soon. Recommended service in 32 days.
+
+Special offer: 10% OFF Labour (Code: OFF849).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Richard
+T Nagar,Corporate,Maruti,Dzire,2020,-25,Unresponsive,2,"Dear Corporate Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2020) needs service urgently. Recommended service in -25 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Engine Oil Discount (Code: OFF909).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['SMS', 'WhatsApp']",Nicholas
+T Nagar,Corporate,Maruti,Dzire,2020,-25,Average,2,"Dear Corporate Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2020) needs service urgently. Recommended service in -25 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Engine Oil Discount (Code: OFF909).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['SMS', 'WhatsApp']",Nicholas
+OMR,Retail,Hyundai,i10,2018,-86,Smooth Process,3,"Dear Retail Customer,
+
+Our records indicate your Hyundai i10 (purchased in 2018) needs service urgently. Recommended service in -86 days.
+
+Special offer: Engine Oil Discount (Code: OFF936).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Susan
+Anna Nagar,Fleet,Honda,City,2019,-114,Smooth Process,2,"Dear Fleet Customer,
+
+Our records indicate your Honda City (purchased in 2019) needs service urgently. Recommended service in -114 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Free Wash (Code: OFF955).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Andrew
+Anna Nagar,Fleet,Toyota,Etios,2017,-27,Poor Service,3,"Dear Fleet Customer,
+
+Our records indicate your Toyota Etios (purchased in 2017) needs service urgently. Recommended service in -27 days.
+
+Special offer: Free Wash (Code: OFF201).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS', 'WhatsApp']",Lynn
+T Nagar,Corporate,Hyundai,Creta,2019,32,Poor Service,3,"Dear Corporate Customer,
+
+Our records indicate your Hyundai Creta (purchased in 2019) needs service soon. Recommended service in 32 days.
+
+Special offer: 10% OFF Labour (Code: OFF849).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Richard
+OMR,Retail,Toyota,Yaris,2018,-25,Smooth Process,4,"Dear Retail Customer,
+
+Our records indicate your Toyota Yaris (purchased in 2018) needs service urgently. Recommended service in -25 days.
+
+Special offer: 10% OFF Labour (Code: OFF929).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Andrew
+OMR,Fleet,Ford,EcoSport,2017,64,Unresponsive,2,"Dear Fleet Customer,
+
+Our records indicate your Ford EcoSport (purchased in 2017) needs service soon. Recommended service in 64 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 15% OFF AMC (Code: OFF435).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],John
+Velachery,Corporate,Maruti,Swift,2016,5,Smooth Process,4,"Dear Corporate Customer,
+
+Our records indicate your Maruti Swift (purchased in 2016) needs service urgently. Recommended service in 5 days.
+
+Special offer: 10% OFF Labour (Code: OFF238).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Shawn
+Anna Nagar,Corporate,Honda,Amaze,2018,32,Poor Service,3,"Dear Corporate Customer,
+
+Our records indicate your Honda Amaze (purchased in 2018) needs service soon. Recommended service in 32 days.
+
+Special offer: 15% OFF AMC (Code: OFF795).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Kimberly
+T Nagar,Retail,Maruti,Baleno,2015,-27,Smooth Process,2,"Dear Retail Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2015) needs service urgently. Recommended service in -27 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Engine Oil Discount (Code: OFF500).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Donald
+Anna Nagar,Corporate,Maruti,Dzire,2018,34,Smooth Process,2,"Dear Corporate Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2018) needs service soon. Recommended service in 34 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 10% OFF Labour (Code: OFF412).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Shelly
+Anna Nagar,Corporate,Honda,Amaze,2018,32,Poor Service,2,"Dear Corporate Customer,
+
+Our records indicate your Honda Amaze (purchased in 2018) needs service soon. Recommended service in 32 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 15% OFF AMC (Code: OFF795).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Kimberly
+Anna Nagar,Corporate,Hyundai,i20,2019,3,Delayed Pickup,4,"Dear Corporate Customer,
+
+Our records indicate your Hyundai i20 (purchased in 2019) needs service urgently. Recommended service in 3 days.
+
+Special offer: Free Wash (Code: OFF265).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Ryan
+OMR,Fleet,Honda,City,2020,32,Unresponsive,3,"Dear Fleet Customer,
+
+Our records indicate your Honda City (purchased in 2020) needs service soon. Recommended service in 32 days.
+
+Special offer: Engine Oil Discount (Code: OFF486).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",John
+Anna Nagar,Corporate,Honda,Amaze,2019,32,Average,5,"Dear Corporate Customer,
+
+Our records indicate your Honda Amaze (purchased in 2019) needs service soon. Recommended service in 32 days.
+
+Special offer: Engine Oil Discount (Code: OFF106).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Christopher
+Velachery,Retail,Ford,Figo,2021,-54,Satisfied,2,"Dear Retail Customer,
+
+Our records indicate your Ford Figo (purchased in 2021) needs service urgently. Recommended service in -54 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 10% OFF Labour (Code: OFF207).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Michelle
+OMR,Fleet,Ford,EcoSport,2017,64,Satisfied,4,"Dear Fleet Customer,
+
+Our records indicate your Ford EcoSport (purchased in 2017) needs service soon. Recommended service in 64 days.
+
+Special offer: 15% OFF AMC (Code: OFF435).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],John
+Velachery,Corporate,Hyundai,Creta,2021,61,Smooth Process,1,"Dear Corporate Customer,
+
+Our records indicate your Hyundai Creta (purchased in 2021) needs service soon. Recommended service in 61 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Free Wash (Code: OFF545).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['Email', 'SMS']",Katie
+Anna Nagar,Corporate,Toyota,Etios,2015,-57,Delayed Pickup,2,"Dear Corporate Customer,
+
+Our records indicate your Toyota Etios (purchased in 2015) needs service urgently. Recommended service in -57 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: 15% OFF AMC (Code: OFF582).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Shane
+OMR,Corporate,Ford,EcoSport,2016,-113,Average,4,"Dear Corporate Customer,
+
+Our records indicate your Ford EcoSport (purchased in 2016) needs service urgently. Recommended service in -113 days.
+
+Special offer: Free Wash (Code: OFF944).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Linda
+OMR,Fleet,Toyota,Yaris,2016,5,Poor Service,3,"Dear Fleet Customer,
+
+Our records indicate your Toyota Yaris (purchased in 2016) needs service urgently. Recommended service in 5 days.
+
+Special offer: 10% OFF Labour (Code: OFF779).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Julia
+T Nagar,Retail,Maruti,Baleno,2015,-27,Unresponsive,3,"Dear Retail Customer,
+
+Our records indicate your Maruti Baleno (purchased in 2015) needs service urgently. Recommended service in -27 days.
+
+Special offer: Engine Oil Discount (Code: OFF500).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Donald
+OMR,Fleet,Hyundai,Creta,2016,91,Poor Service,2,"Dear Fleet Customer,
+
+Our records indicate your Hyundai Creta (purchased in 2016) needs service soon. Recommended service in 91 days.
+
+We noticed your previous feedback and want to ensure a better experience this time.
+
+Special offer: Free Wash (Code: OFF577).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Brian
+OMR,Retail,Honda,City,2022,5,Poor Service,4,"Dear Retail Customer,
+
+Our records indicate your Honda City (purchased in 2022) needs service urgently. Recommended service in 5 days.
+
+Special offer: Engine Oil Discount (Code: OFF799).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team","['SMS', 'WhatsApp']",David
+Velachery,Fleet,Maruti,Dzire,2016,62,Satisfied,3,"Dear Fleet Customer,
+
+Our records indicate your Maruti Dzire (purchased in 2016) needs service soon. Recommended service in 62 days.
+
+Special offer: Engine Oil Discount (Code: OFF960).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Perry
+Anna Nagar,Fleet,Hyundai,Creta,2017,-143,Average,4,"Dear Fleet Customer,
+
+Our records indicate your Hyundai Creta (purchased in 2017) needs service urgently. Recommended service in -143 days.
+
+Special offer: 10% OFF Labour (Code: OFF694).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Paula
+Velachery,Retail,Ford,Figo,2021,-54,Unresponsive,3,"Dear Retail Customer,
+
+Our records indicate your Ford Figo (purchased in 2021) needs service urgently. Recommended service in -54 days.
+
+Special offer: 10% OFF Labour (Code: OFF207).
+
+Please contact your service advisor to schedule an appointment.
+
+Best regards,
+Your Service Team",['SMS'],Michelle

@@ -1,0 +1,3327 @@
+location,customer_type,make,model,year_of_purchase,customer_feedback,feedback_score,next_service_due_days,customer_segment,personalized_message,preferred_channels
+OMR,Retail,Ford,Aspire,2019,Poor Service,4,357,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 357 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Honda,City,2015,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,Figo,2016,Poor Service,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Innova,2021,Poor Service,4,357,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 357 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,Amaze,2020,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,Aspire,2015,Unresponsive,1,239,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,EcoSport,2019,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Yaris,2018,Average,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Swift,2019,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Dzire,2017,Delayed Pickup,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Hyundai,Creta,2015,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,Amaze,2019,Smooth Process,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i20,2021,Unresponsive,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,Jazz,2016,Delayed Pickup,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,EcoSport,2019,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Maruti,Swift,2019,Delayed Pickup,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Yaris,2021,Poor Service,4,207,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 207 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Toyota,Yaris,2020,Unresponsive,3,123,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 123 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Yaris,2019,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Toyota,Yaris,2020,Poor Service,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,Aspire,2017,Unresponsive,3,298,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 298 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Maruti,Swift,2016,Poor Service,1,298,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 298 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Dzire,2020,Delayed Pickup,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Aspire,2016,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,EcoSport,2022,Poor Service,2,32,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Yaris,2017,Poor Service,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Ford,Figo,2016,Average,1,-86,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -86 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Ford,Aspire,2019,Smooth Process,2,121,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2015,Poor Service,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Innova,2021,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,EcoSport,2019,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Innova,2015,Delayed Pickup,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Baleno,2015,Unresponsive,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,Aspire,2019,Delayed Pickup,1,387,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 387 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Figo,2017,Poor Service,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Innova,2019,Unresponsive,4,299,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 299 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2017,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Toyota,Yaris,2015,Unresponsive,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2021,Smooth Process,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Maruti,Swift,2021,Delayed Pickup,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,City,2017,Poor Service,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Toyota,Innova,2018,Delayed Pickup,4,34,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 34 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Etios,2017,Delayed Pickup,5,91,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 91 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Etios,2015,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Maruti,Swift,2015,Delayed Pickup,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Swift,2018,Unresponsive,5,2,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 2 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,EcoSport,2022,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Swift,2020,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2020,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,City,2018,Smooth Process,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Hyundai,i20,2021,Satisfied,4,-113,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -113 days.
+","['WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,i20,2016,Smooth Process,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2021,Satisfied,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,EcoSport,2015,Delayed Pickup,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,i20,2020,Delayed Pickup,4,-54,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -54 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2021,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i10,2018,Average,5,-86,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -86 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,EcoSport,2016,Unresponsive,4,328,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 328 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Ford,Aspire,2016,Delayed Pickup,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,i20,2020,Smooth Process,4,-54,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -54 days.
+","['WhatsApp', 'Email']"
+T Nagar,Corporate,Ford,Aspire,2017,Delayed Pickup,4,474,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 474 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,Creta,2016,Unresponsive,4,91,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 91 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Ford,Aspire,2017,Unresponsive,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,City,2018,Delayed Pickup,4,210,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 210 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2020,Delayed Pickup,1,358,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 358 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Jazz,2018,Delayed Pickup,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Maruti,Swift,2022,Average,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Amaze,2021,Delayed Pickup,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Amaze,2018,Poor Service,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,i20,2018,Average,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,EcoSport,2015,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i20,2017,Unresponsive,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,i10,2015,Unresponsive,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Ford,Figo,2021,Unresponsive,4,209,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 209 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Maruti,Swift,2022,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,EcoSport,2019,Poor Service,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2018,Smooth Process,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Maruti,Baleno,2015,Average,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Hyundai,i10,2020,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Maruti,Baleno,2018,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Swift,2021,Poor Service,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,Figo,2022,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Toyota,Yaris,2018,Poor Service,1,-25,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -25 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Etios,2017,Satisfied,5,91,Medium Priority,"Dear Corporate Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 91 days.
+","['Email', 'SMS']"
+OMR,Fleet,Honda,City,2018,Smooth Process,4,-27,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -27 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Swift,2015,Smooth Process,3,2,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 2 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Corporate,Toyota,Innova,2015,Smooth Process,4,62,Medium Priority,"Dear Corporate Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 62 days.
+","['Email', 'SMS']"
+Velachery,Corporate,Hyundai,Creta,2021,Smooth Process,4,61,Medium Priority,"Dear Corporate Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 61 days.
+","['Email', 'SMS']"
+Velachery,Corporate,Maruti,Swift,2016,Smooth Process,4,5,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 5 days.
+","['WhatsApp', 'Email']"
+Velachery,Retail,Honda,Jazz,2018,Poor Service,3,445,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 445 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Maruti,Dzire,2016,Unresponsive,2,62,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 62 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Toyota,Innova,2021,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Toyota,Etios,2015,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i10,2018,Smooth Process,2,-27,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -27 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,Creta,2019,Average,2,296,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 296 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Honda,City,2022,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Honda,City,2018,Unresponsive,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,EcoSport,2015,Average,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Toyota,Etios,2017,Unresponsive,3,-27,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -27 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Etios,2017,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,Jazz,2022,Smooth Process,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,City,2016,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Hyundai,i20,2022,Unresponsive,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Maruti,Dzire,2022,Poor Service,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Baleno,2018,Unresponsive,4,356,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 356 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Baleno,2020,Delayed Pickup,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Honda,Amaze,2018,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,City,2016,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,City,2022,Satisfied,4,62,Medium Priority,"Dear Retail Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 62 days.
+","['Email', 'SMS']"
+Anna Nagar,Retail,Hyundai,i10,2018,Unresponsive,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Maruti,Dzire,2022,Delayed Pickup,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,Aspire,2016,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2021,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2021,Poor Service,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,i20,2022,Delayed Pickup,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i20,2015,Smooth Process,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Innova,2016,Unresponsive,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2022,Unresponsive,5,357,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 357 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Baleno,2022,Satisfied,4,2,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 2 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Jazz,2019,Poor Service,1,445,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 445 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Honda,Jazz,2020,Delayed Pickup,1,121,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Swift,2018,Delayed Pickup,3,298,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 298 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Toyota,Yaris,2018,Smooth Process,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i20,2017,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Hyundai,i20,2022,Poor Service,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Yaris,2016,Unresponsive,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Toyota,Yaris,2020,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Hyundai,i20,2022,Smooth Process,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Honda,Jazz,2018,Average,4,-57,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -57 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Corporate,Ford,EcoSport,2020,Delayed Pickup,2,299,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 299 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Maruti,Dzire,2021,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Toyota,Yaris,2016,Satisfied,2,446,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 446 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,Figo,2016,Poor Service,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Toyota,Innova,2015,Smooth Process,5,62,Medium Priority,"Dear Corporate Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 62 days.
+","['Email', 'SMS']"
+Velachery,Retail,Honda,City,2018,Smooth Process,5,32,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 32 days.
+","['WhatsApp', 'Email']"
+Velachery,Corporate,Honda,Jazz,2018,Poor Service,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Honda,City,2019,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i10,2017,Delayed Pickup,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,Figo,2016,Average,1,91,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 91 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,Amaze,2016,Unresponsive,4,-143,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -143 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Yaris,2016,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2018,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Baleno,2020,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,Figo,2019,Poor Service,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Innova,2016,Satisfied,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Hyundai,Creta,2017,Unresponsive,3,-143,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -143 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Dzire,2016,Smooth Process,4,91,Medium Priority,"Dear Fleet Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 91 days.
+","['Email', 'SMS']"
+T Nagar,Corporate,Maruti,Swift,2017,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,City,2016,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,Figo,2016,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i20,2016,Average,1,416,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 416 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Amaze,2022,Satisfied,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,Figo,2021,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Swift,2021,Delayed Pickup,1,62,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 62 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Hyundai,i10,2018,Delayed Pickup,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Maruti,Baleno,2017,Poor Service,1,-27,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -27 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i20,2017,Poor Service,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Toyota,Yaris,2022,Poor Service,3,416,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 416 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Swift,2015,Satisfied,3,2,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 2 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Corporate,Toyota,Etios,2017,Delayed Pickup,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Honda,City,2018,Unresponsive,4,-143,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -143 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Dzire,2016,Poor Service,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Baleno,2016,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Swift,2021,Average,4,34,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 34 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,Aspire,2022,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,EcoSport,2019,Poor Service,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Swift,2018,Poor Service,3,2,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 2 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,Figo,2017,Delayed Pickup,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,Creta,2019,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,Figo,2017,Unresponsive,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Hyundai,Creta,2016,Delayed Pickup,4,387,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 387 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Dzire,2018,Delayed Pickup,4,358,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 358 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,Amaze,2018,Poor Service,4,32,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Ford,Figo,2017,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2017,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Honda,City,2015,Unresponsive,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Baleno,2022,Poor Service,3,2,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 2 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Honda,Jazz,2018,Smooth Process,2,-57,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -57 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,Figo,2015,Poor Service,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Baleno,2019,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Toyota,Yaris,2020,Delayed Pickup,4,151,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 151 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,i20,2022,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2018,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Ford,Figo,2022,Poor Service,3,239,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Honda,City,2018,Satisfied,3,-27,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -27 days.
+","['WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Baleno,2015,Average,3,-27,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -27 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,City,2022,Smooth Process,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Yaris,2019,Delayed Pickup,5,121,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,Figo,2019,Poor Service,1,121,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i20,2016,Smooth Process,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Maruti,Dzire,2015,Delayed Pickup,2,35,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 35 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Toyota,Etios,2022,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Maruti,Swift,2022,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Figo,2017,Average,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Amaze,2022,Delayed Pickup,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Swift,2018,Satisfied,4,2,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 2 days.
+","['WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Figo,2016,Unresponsive,4,445,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 445 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Maruti,Dzire,2021,Poor Service,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,Creta,2015,Delayed Pickup,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Honda,City,2018,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Hyundai,i20,2016,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i10,2020,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Toyota,Etios,2016,Smooth Process,1,209,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 209 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Honda,Jazz,2016,Delayed Pickup,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,Aspire,2019,Satisfied,2,387,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 387 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Innova,2017,Poor Service,5,151,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 151 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,Figo,2017,Delayed Pickup,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,Amaze,2022,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2017,Delayed Pickup,1,358,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 358 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Baleno,2019,Smooth Process,4,-84,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -84 days.
+","['WhatsApp', 'Email']"
+OMR,Corporate,Toyota,Yaris,2020,Unresponsive,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Innova,2019,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Ford,Aspire,2017,Average,3,93,Medium Priority,"Dear Corporate Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 93 days.
+","['Email', 'SMS']"
+Velachery,Fleet,Ford,EcoSport,2015,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Swift,2017,Poor Service,4,415,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 415 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Innova,2016,Satisfied,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Swift,2020,Smooth Process,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Honda,Jazz,2021,Average,5,62,Medium Priority,"Dear Corporate Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 62 days.
+","['Email', 'SMS']"
+Anna Nagar,Corporate,Hyundai,Creta,2015,Delayed Pickup,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,Creta,2021,Unresponsive,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Baleno,2018,Smooth Process,2,356,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 356 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2016,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Innova,2020,Smooth Process,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,Creta,2019,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Honda,Jazz,2019,Delayed Pickup,4,121,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,EcoSport,2015,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i20,2018,Smooth Process,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,City,2022,Smooth Process,3,62,Medium Priority,"Dear Retail Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 62 days.
+","['Email', 'SMS']"
+Velachery,Corporate,Toyota,Yaris,2020,Poor Service,5,210,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 210 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,City,2017,Poor Service,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i10,2017,Smooth Process,4,-55,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -55 days.
+","['WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Innova,2018,Smooth Process,2,237,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 237 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Swift,2017,Poor Service,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2017,Unresponsive,4,358,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 358 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,Amaze,2022,Unresponsive,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,Jazz,2021,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,Figo,2022,Average,4,32,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 32 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Jazz,2019,Satisfied,1,445,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 445 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Dzire,2018,Delayed Pickup,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Ford,Aspire,2021,Delayed Pickup,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Dzire,2016,Smooth Process,4,91,Medium Priority,"Dear Fleet Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 91 days.
+","['Email', 'SMS']"
+Anna Nagar,Corporate,Toyota,Innova,2015,Delayed Pickup,5,62,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 62 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Baleno,2017,Average,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Hyundai,i20,2022,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i10,2020,Unresponsive,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Hyundai,Creta,2015,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,Aspire,2022,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Ford,EcoSport,2017,Poor Service,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Ford,Figo,2016,Satisfied,5,-86,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -86 days.
+","['WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Etios,2021,Satisfied,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2018,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Etios,2019,Poor Service,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Innova,2017,Average,2,151,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 151 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,Aspire,2016,Delayed Pickup,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Ford,Aspire,2021,Delayed Pickup,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2021,Smooth Process,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Honda,City,2015,Poor Service,5,387,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 387 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Amaze,2019,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,Creta,2022,Smooth Process,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Swift,2021,Delayed Pickup,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i10,2021,Poor Service,3,268,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 268 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Dzire,2021,Poor Service,3,210,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 210 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,Creta,2022,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Innova,2015,Unresponsive,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Hyundai,Creta,2019,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Dzire,2022,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Ford,Aspire,2016,Unresponsive,4,475,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 475 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Etios,2018,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Maruti,Baleno,2017,Average,4,-27,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -27 days.
+","['WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Innova,2017,Smooth Process,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Maruti,Baleno,2020,Unresponsive,4,239,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Swift,2015,Poor Service,4,2,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 2 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Amaze,2018,Poor Service,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Honda,City,2015,Delayed Pickup,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,Figo,2019,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,Aspire,2017,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,Creta,2018,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,EcoSport,2019,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Honda,City,2015,Poor Service,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,EcoSport,2015,Average,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Swift,2017,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Innova,2016,Poor Service,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Honda,City,2018,Smooth Process,2,-143,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -143 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i10,2018,Satisfied,3,-27,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -27 days.
+","['WhatsApp', 'Email']"
+OMR,Fleet,Ford,Figo,2015,Poor Service,5,386,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 386 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,Creta,2016,Average,3,91,Medium Priority,"Dear Fleet Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 91 days.
+","['Email', 'SMS']"
+T Nagar,Corporate,Ford,Figo,2022,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,Figo,2015,Delayed Pickup,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Swift,2020,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2020,Poor Service,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Aspire,2021,Unresponsive,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,Creta,2019,Delayed Pickup,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,Aspire,2020,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Innova,2018,Delayed Pickup,3,32,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Maruti,Dzire,2018,Smooth Process,2,32,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Jazz,2021,Average,2,416,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 416 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,Creta,2022,Smooth Process,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Honda,City,2015,Poor Service,3,387,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 387 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Aspire,2019,Poor Service,4,209,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 209 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Hyundai,Creta,2015,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Baleno,2017,Smooth Process,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,Creta,2022,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Figo,2016,Poor Service,3,445,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 445 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Honda,Amaze,2017,Poor Service,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Etios,2021,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Baleno,2019,Delayed Pickup,1,-84,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -84 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2018,Smooth Process,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Hyundai,Creta,2020,Poor Service,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,City,2018,Unresponsive,4,210,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 210 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Dzire,2019,Poor Service,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,Amaze,2019,Delayed Pickup,4,32,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i10,2018,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Amaze,2017,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,EcoSport,2019,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Jazz,2016,Unresponsive,4,298,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 298 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2017,Unresponsive,5,387,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 387 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Dzire,2018,Unresponsive,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,City,2018,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Hyundai,i20,2018,Delayed Pickup,1,207,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 207 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Swift,2018,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Innova,2022,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Ford,Aspire,2017,Poor Service,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,Figo,2022,Average,3,32,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 32 days.
+","['WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Swift,2018,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Hyundai,Creta,2021,Unresponsive,5,239,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Aspire,2021,Unresponsive,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,i20,2022,Satisfied,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Baleno,2020,Delayed Pickup,1,-114,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -114 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Honda,City,2020,Average,2,32,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Honda,City,2018,Satisfied,4,-27,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -27 days.
+","['WhatsApp', 'Email']"
+OMR,Retail,Ford,Aspire,2022,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,City,2015,Unresponsive,1,5,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 5 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,i10,2017,Delayed Pickup,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,EcoSport,2022,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,City,2018,Average,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Toyota,Etios,2015,Poor Service,1,-57,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -57 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Honda,Amaze,2022,Delayed Pickup,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2016,Satisfied,3,-113,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -113 days.
+","['WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Baleno,2020,Delayed Pickup,3,445,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 445 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2020,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Innova,2018,Satisfied,2,32,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Baleno,2020,Delayed Pickup,4,-114,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -114 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2021,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Jazz,2018,Unresponsive,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i20,2016,Delayed Pickup,5,237,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 237 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Aspire,2015,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,EcoSport,2015,Unresponsive,2,153,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 153 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i20,2019,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,i10,2017,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Toyota,Etios,2015,Poor Service,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,Figo,2015,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Amaze,2017,Poor Service,5,416,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 416 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Toyota,Innova,2018,Smooth Process,3,34,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 34 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Dzire,2021,Poor Service,2,210,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 210 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,Jazz,2021,Unresponsive,4,239,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2020,Unresponsive,4,358,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 358 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Innova,2020,Poor Service,1,269,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 269 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Maruti,Swift,2020,Unresponsive,4,386,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 386 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2022,Unresponsive,4,357,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 357 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Toyota,Etios,2022,Delayed Pickup,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Maruti,Swift,2022,Satisfied,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2018,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Innova,2015,Delayed Pickup,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Toyota,Yaris,2016,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Dzire,2020,Poor Service,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,City,2018,Poor Service,4,32,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Honda,Amaze,2022,Poor Service,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,City,2019,Smooth Process,3,-114,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -114 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,City,2017,Delayed Pickup,4,239,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,Creta,2022,Poor Service,3,299,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 299 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2017,Poor Service,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Dzire,2021,Satisfied,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Maruti,Dzire,2015,Satisfied,4,35,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 35 days.
+","['WhatsApp', 'Email']"
+OMR,Retail,Maruti,Baleno,2022,Unresponsive,3,2,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 2 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Ford,EcoSport,2018,Unresponsive,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Swift,2022,Average,2,358,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 358 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Etios,2015,Poor Service,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Figo,2020,Poor Service,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Innova,2022,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,Amaze,2019,Delayed Pickup,5,32,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,EcoSport,2016,Poor Service,3,328,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 328 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2017,Unresponsive,3,150,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 150 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Innova,2019,Poor Service,1,121,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Swift,2016,Unresponsive,4,121,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Aspire,2022,Delayed Pickup,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,i10,2022,Average,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Maruti,Dzire,2016,Delayed Pickup,1,62,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 62 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,Creta,2016,Delayed Pickup,2,356,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 356 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Baleno,2015,Satisfied,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,EcoSport,2019,Satisfied,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,Figo,2017,Unresponsive,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i10,2018,Poor Service,2,-86,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -86 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Maruti,Dzire,2015,Average,4,35,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 35 days.
+","['WhatsApp', 'Email']"
+OMR,Retail,Ford,Figo,2016,Average,1,-86,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -86 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Amaze,2021,Unresponsive,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,Figo,2017,Unresponsive,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Honda,Jazz,2016,Poor Service,2,387,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 387 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Innova,2019,Unresponsive,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Honda,Jazz,2018,Average,4,-57,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -57 days.
+","['WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Baleno,2020,Delayed Pickup,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Ford,Aspire,2016,Unresponsive,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,Aspire,2020,Satisfied,1,123,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 123 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Swift,2018,Average,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2020,Delayed Pickup,1,328,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 328 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Swift,2018,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2018,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Honda,City,2019,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Swift,2015,Unresponsive,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,Creta,2016,Poor Service,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2019,Delayed Pickup,2,386,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 386 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,Creta,2021,Delayed Pickup,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Figo,2017,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2021,Delayed Pickup,4,298,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 298 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,Amaze,2020,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Innova,2017,Smooth Process,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Innova,2020,Delayed Pickup,1,269,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 269 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Honda,Jazz,2016,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Maruti,Baleno,2020,Delayed Pickup,2,239,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Hyundai,Creta,2015,Smooth Process,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Innova,2020,Unresponsive,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,Figo,2022,Average,5,32,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 32 days.
+","['WhatsApp', 'Email']"
+Velachery,Corporate,Ford,EcoSport,2022,Delayed Pickup,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,City,2022,Poor Service,2,5,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 5 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Maruti,Dzire,2016,Unresponsive,5,240,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 240 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i20,2018,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Honda,Amaze,2022,Average,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,i20,2018,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2016,Unresponsive,1,-113,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -113 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i20,2016,Unresponsive,5,237,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 237 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Ford,Aspire,2016,Unresponsive,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,City,2015,Smooth Process,1,5,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 5 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,EcoSport,2016,Average,2,328,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 328 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2017,Unresponsive,4,64,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 64 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2016,Poor Service,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Maruti,Dzire,2019,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Honda,City,2016,Poor Service,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Toyota,Etios,2015,Smooth Process,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Etios,2016,Unresponsive,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Innova,2017,Delayed Pickup,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Toyota,Innova,2021,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Honda,Jazz,2020,Smooth Process,2,150,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 150 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Toyota,Innova,2019,Poor Service,3,299,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 299 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Amaze,2022,Satisfied,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,Creta,2021,Smooth Process,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Honda,Amaze,2019,Poor Service,4,121,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Hyundai,Creta,2022,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Hyundai,i20,2017,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2021,Satisfied,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Innova,2018,Satisfied,3,32,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 32 days.
+","['WhatsApp', 'Email']"
+Velachery,Retail,Honda,Jazz,2021,Poor Service,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Hyundai,Creta,2019,Unresponsive,5,32,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Dzire,2019,Unresponsive,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,City,2019,Average,2,123,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 123 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i10,2017,Delayed Pickup,3,-27,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -27 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Toyota,Etios,2015,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,Creta,2016,Poor Service,3,356,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 356 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Toyota,Etios,2019,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Figo,2022,Delayed Pickup,3,209,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 209 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,i10,2015,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Maruti,Dzire,2020,Unresponsive,2,-25,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -25 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Honda,Jazz,2018,Smooth Process,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,Creta,2017,Poor Service,3,268,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 268 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Toyota,Yaris,2022,Poor Service,2,239,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Toyota,Innova,2017,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Hyundai,Creta,2015,Poor Service,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Ford,Figo,2017,Unresponsive,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Honda,Jazz,2017,Delayed Pickup,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Hyundai,Creta,2015,Delayed Pickup,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Maruti,Dzire,2020,Average,2,-25,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -25 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Toyota,Innova,2017,Delayed Pickup,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,Figo,2021,Poor Service,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Amaze,2021,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Toyota,Etios,2015,Unresponsive,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i10,2018,Smooth Process,3,-86,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -86 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,City,2019,Smooth Process,2,-114,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -114 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Toyota,Yaris,2022,Poor Service,4,121,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Amaze,2022,Unresponsive,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Etios,2017,Unresponsive,2,239,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Toyota,Etios,2017,Poor Service,3,-27,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -27 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Honda,Jazz,2016,Delayed Pickup,5,475,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 475 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Hyundai,Creta,2021,Unresponsive,3,150,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 150 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Ford,EcoSport,2015,Satisfied,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2017,Satisfied,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i20,2017,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Maruti,Baleno,2015,Satisfied,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Hyundai,Creta,2019,Poor Service,3,32,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Maruti,Baleno,2017,Delayed Pickup,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Honda,City,2019,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,Creta,2019,Poor Service,3,210,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 210 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Ford,Figo,2018,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Maruti,Dzire,2019,Delayed Pickup,4,121,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,EcoSport,2022,Satisfied,3,32,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 32 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Baleno,2020,Smooth Process,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Yaris,2019,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,Creta,2022,Poor Service,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Ford,Figo,2022,Poor Service,4,239,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,Creta,2018,Smooth Process,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Innova,2018,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Hyundai,i10,2018,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Innova,2017,Unresponsive,2,151,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 151 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Honda,City,2022,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,i20,2016,Smooth Process,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2021,Poor Service,4,298,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 298 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Etios,2016,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,Figo,2019,Delayed Pickup,4,121,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,Aspire,2020,Delayed Pickup,5,239,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Innova,2019,Smooth Process,1,121,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Toyota,Yaris,2018,Smooth Process,4,-25,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -25 days.
+","['WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Aspire,2021,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Ford,Figo,2022,Satisfied,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,Aspire,2015,Average,2,239,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Honda,Amaze,2019,Delayed Pickup,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2017,Delayed Pickup,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Etios,2021,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i20,2016,Poor Service,4,416,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 416 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,Jazz,2016,Unresponsive,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Toyota,Yaris,2022,Smooth Process,1,91,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 91 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2017,Unresponsive,2,64,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 64 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Maruti,Swift,2016,Smooth Process,4,5,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 5 days.
+","['WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i20,2018,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Maruti,Dzire,2022,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Figo,2015,Poor Service,3,386,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 386 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,Amaze,2018,Poor Service,3,32,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Baleno,2015,Smooth Process,2,-27,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -27 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,City,2017,Satisfied,1,150,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 150 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Dzire,2018,Smooth Process,2,34,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 34 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2022,Delayed Pickup,1,357,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 357 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Swift,2018,Satisfied,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,Jazz,2022,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Hyundai,i10,2020,Unresponsive,3,237,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 237 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Honda,Jazz,2018,Delayed Pickup,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Hyundai,i10,2018,Unresponsive,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Toyota,Yaris,2020,Poor Service,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Ford,Figo,2018,Average,3,-57,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -57 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,City,2017,Poor Service,3,239,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Baleno,2017,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Figo,2021,Delayed Pickup,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Hyundai,i10,2018,Poor Service,2,151,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 151 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Baleno,2019,Satisfied,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,Creta,2019,Unresponsive,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Etios,2015,Unresponsive,1,121,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Yaris,2016,Unresponsive,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,Creta,2019,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Toyota,Etios,2022,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Maruti,Swift,2016,Delayed Pickup,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,i10,2017,Delayed Pickup,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Innova,2016,Poor Service,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Honda,Jazz,2022,Satisfied,3,-84,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -84 days.
+","['WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2018,Poor Service,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,Amaze,2018,Poor Service,2,32,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,i20,2019,Delayed Pickup,4,3,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 3 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Maruti,Dzire,2019,Average,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Honda,Amaze,2022,Smooth Process,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,Creta,2017,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Aspire,2021,Poor Service,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Toyota,Yaris,2022,Poor Service,4,91,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 91 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Baleno,2016,Average,1,299,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 299 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Honda,City,2020,Unresponsive,3,32,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 32 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Yaris,2016,Satisfied,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,Creta,2019,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Toyota,Etios,2017,Unresponsive,3,239,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Baleno,2017,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i20,2015,Delayed Pickup,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Dzire,2022,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Toyota,Yaris,2019,Delayed Pickup,2,121,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,Amaze,2016,Satisfied,4,-143,High Priority,"Dear Retail Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -143 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Retail,Toyota,Yaris,2022,Unresponsive,5,91,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 91 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Honda,Amaze,2019,Average,5,32,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in 32 days.
+","['WhatsApp', 'Email']"
+T Nagar,Retail,Honda,Jazz,2020,Unresponsive,5,121,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Maruti,Swift,2020,Poor Service,3,386,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 386 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Toyota,Yaris,2020,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,City,2018,Poor Service,4,446,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 446 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Aspire,2021,Unresponsive,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2022,Delayed Pickup,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Figo,2021,Satisfied,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,Figo,2021,Satisfied,2,-54,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -54 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i20,2017,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Yaris,2021,Delayed Pickup,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Baleno,2015,Poor Service,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,Figo,2020,Smooth Process,2,210,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 210 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Swift,2018,Smooth Process,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,Creta,2021,Unresponsive,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2021,Delayed Pickup,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Toyota,Etios,2019,Delayed Pickup,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,Aspire,2020,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2020,Poor Service,1,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Etios,2021,Delayed Pickup,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,i10,2016,Delayed Pickup,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Honda,Amaze,2018,Poor Service,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Honda,Jazz,2021,Delayed Pickup,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i10,2017,Poor Service,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Maruti,Baleno,2018,Smooth Process,2,356,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 356 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Honda,Jazz,2021,Satisfied,1,239,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 239 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Hyundai,Creta,2016,Poor Service,3,356,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 356 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Swift,2018,Smooth Process,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Ford,Aspire,2019,Delayed Pickup,4,121,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 121 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,Aspire,2017,Poor Service,3,298,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 298 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Yaris,2021,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Innova,2015,Poor Service,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2021,Delayed Pickup,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,EcoSport,2015,Poor Service,3,35,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 35 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Honda,City,2016,Unresponsive,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Honda,City,2016,Poor Service,4,326,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 326 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,EcoSport,2017,Satisfied,4,64,Medium Priority,"Dear Fleet Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 64 days.
+","['Email', 'SMS']"
+T Nagar,Retail,Ford,Aspire,2022,Unresponsive,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Amaze,2019,Smooth Process,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,Aspire,2020,Delayed Pickup,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Hyundai,i10,2021,Poor Service,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Baleno,2017,Delayed Pickup,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,Figo,2022,Unresponsive,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,Aspire,2018,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Swift,2018,Unresponsive,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Hyundai,i10,2017,Poor Service,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,Creta,2021,Smooth Process,1,61,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 61 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Innova,2019,Delayed Pickup,5,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Maruti,Dzire,2018,Delayed Pickup,2,34,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 34 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Jazz,2019,Unresponsive,3,445,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 445 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i20,2017,Smooth Process,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Ford,Aspire,2017,Poor Service,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2017,Delayed Pickup,3,150,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 150 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Toyota,Etios,2018,Average,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Toyota,Yaris,2021,Unresponsive,3,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Honda,Jazz,2016,Poor Service,3,475,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 475 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Toyota,Yaris,2020,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Figo,2018,Poor Service,4,266,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 266 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Maruti,Dzire,2016,Poor Service,4,240,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 240 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Maruti,Baleno,2022,Poor Service,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,Creta,2019,Poor Service,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Innova,2015,Delayed Pickup,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Baleno,2016,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,Creta,2015,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Hyundai,Creta,2015,Unresponsive,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,Creta,2019,Satisfied,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Maruti,Swift,2022,Poor Service,3,358,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 358 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Baleno,2016,Delayed Pickup,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Fleet,Ford,Aspire,2020,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Corporate,Ford,Figo,2017,Unresponsive,3,209,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 209 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Maruti,Dzire,2019,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Maruti,Baleno,2017,Average,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Toyota,Etios,2015,Delayed Pickup,2,-57,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -57 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Hyundai,i10,2019,Poor Service,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Ford,Figo,2022,Unresponsive,3,209,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 209 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2022,Poor Service,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Ford,EcoSport,2016,Delayed Pickup,1,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Corporate,Hyundai,Creta,2015,Unresponsive,5,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Corporate,Ford,EcoSport,2016,Average,4,-113,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -113 days.
+","['WhatsApp', 'Email']"
+Velachery,Corporate,Ford,EcoSport,2021,Smooth Process,2,358,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 358 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Toyota,Yaris,2016,Poor Service,3,5,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 5 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Swift,2017,Unresponsive,3,415,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 415 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Baleno,2015,Unresponsive,3,-27,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -27 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i20,2017,Unresponsive,2,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,Creta,2016,Poor Service,2,91,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 91 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Maruti,Dzire,2017,Unresponsive,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Maruti,Dzire,2016,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Ford,Aspire,2022,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Toyota,Innova,2018,Poor Service,2,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Hyundai,i20,2016,Poor Service,3,237,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 237 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Toyota,Innova,2018,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Honda,City,2022,Poor Service,4,5,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 5 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Hyundai,Creta,2018,Delayed Pickup,2,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Ford,Aspire,2019,Satisfied,1,209,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 209 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Maruti,Swift,2017,Unresponsive,4,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Hyundai,Creta,2017,Delayed Pickup,5,-143,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -143 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Maruti,Dzire,2016,Satisfied,3,62,Medium Priority,"Dear Fleet Customer,
+Keep your vehicle in top shape by servicing it soon.
+Service due in 62 days.
+","['Email', 'SMS']"
+Velachery,Corporate,Honda,Jazz,2018,Delayed Pickup,4,180,Critical,"Dear Corporate Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Fleet,Toyota,Yaris,2018,Delayed Pickup,3,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Honda,Amaze,2017,Poor Service,3,416,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 416 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Corporate,Hyundai,i10,2017,Satisfied,3,-27,High Priority,"Dear Corporate Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -27 days.
+","['WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i20,2015,Poor Service,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Fleet,Hyundai,Creta,2017,Average,4,-143,High Priority,"Dear Fleet Customer,
+Your vehicle requires servicing soon. Book now for priority scheduling.
+Service due in -143 days.
+","['WhatsApp', 'Email']"
+Velachery,Retail,Maruti,Baleno,2016,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+Velachery,Retail,Ford,Figo,2021,Unresponsive,3,-54,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in -54 days.
+","['Phone', 'WhatsApp', 'Email']"
+Anna Nagar,Retail,Hyundai,i20,2015,Delayed Pickup,3,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+T Nagar,Retail,Toyota,Innova,2021,Delayed Pickup,4,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Fleet,Hyundai,i10,2015,Unresponsive,1,180,Critical,"Dear Fleet Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
+OMR,Retail,Toyota,Innova,2016,Unresponsive,5,180,Critical,"Dear Retail Customer,
+We are sorry for any inconvenience caused and will personally monitor your next service.
+Enjoy a 15% discount as our apology.
+Service due in 180 days.
+","['Phone', 'WhatsApp', 'Email']"
